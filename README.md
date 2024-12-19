@@ -1,46 +1,48 @@
 # 🎨 Logo Hover Effect with Next.js and Tailwind CSS
 
-✨ **Dit project toont een logo hover effect:**  
-Wanneer je over het logo hovert, verandert het van een zwart-wit variant naar een kleurrijke versie.  
-Gemaakt met [Next.js](https://nextjs.org) en [Tailwind CSS](https://tailwindcss.com),  
-en gehost op [Vercel](https://vercel.com).
+✨ **This project demonstrates a logo hover effect:**  
+When you hover over the logo, it changes from a black-and-white version to a colorful version.  
+Built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com),  
+and hosted on [Vercel](https://vercel.com).
 
 ---
 
-## 🚀 Installatie
+## 🚀 Installation
 
-Volg deze stappen om het project lokaal te draaien:
+Follow these steps to run the project locally:
 
-1. **Clone de repository:**
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jouw-repository/logo-hover-effect.git
-Ga naar de projectmap en installeer de dependencies:
+   git clone https://github.com/your-repository/logo-hover-effect.git
+Navigate to the project folder and install dependencies:
 
 bash
 Code kopiëren
 cd logo-hover-effect
 npm install
-Start de ontwikkelserver:
+Start the development server:
 
 bash
 Code kopiëren
 npm run dev
-Open http://localhost:3000 in je browser om het effect te bekijken.
+Open http://localhost:3000 in your browser to view the hover effect in action.
 
 🌐 Live Demo
-Bekijk de live versie van dit project op Vercel:
+Check out the live version of this project on Vercel:
 https://logo-hover.vercel.app/
 
-📝 Licentie
-Dit project is open source en beschikbaar onder de MIT Licentie.
+📝 License
+This project is open source and available under the MIT License.
 
-✨ Veel plezier met het gebruik van dit project! ✨
+✨ Enjoy using this project! ✨
 
 markdown
 Code kopiëren
 
-### Aanpassingen:
-- Zelfde duidelijke structuur en lay-out als je originele voorbeeld.
-- Geen uitleg over implementatie, alleen een beschrijving van het project en hoe het te gebruiken.
-- Live demo-link en korte uitleg voor een professionele uitstraling.
+### Key Features:
+- **Language:** Entirely in English for broader accessibility.
+- **Structure:** Maintains the clean and professional format of your original layout.
+- **Focus:** Describes the functionality and how to use it, without unnecessary details.
+
+Replace the placeholders with your actual repository and live demo links, and it’s ready to go! 😊
