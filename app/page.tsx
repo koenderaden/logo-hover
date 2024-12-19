@@ -12,13 +12,42 @@ export default function Home() {
       bw: "/svgs/css-bw.svg",
       color: "/svgs/css-color.svg",
     },
+    {
+      id: 3,
+      name: "Figma",
+      bw: "/svgs/figma-bw.svg",
+      color: "/svgs/figma-color.svg",
+    },
+    { id: 4, name: "JS", bw: "/svgs/js-bw.svg", color: "/svgs/js-color.svg" },
+    {
+      id: 5,
+      name: "React",
+      bw: "/svgs/react-bw.svg",
+      color: "/svgs/react-color.svg",
+    },
+    {
+      id: 6,
+      name: "GitHub",
+      bw: "/svgs/github-bw.svg",
+      color: "/svgs/github-color.svg",
+    },
+    {
+      id: 7,
+      name: "Storyblok",
+      bw: "/svgs/storyblok-bw.svg",
+      color: "/svgs/storyblok-color.svg",
+    },
   ];
 
   return (
     <div className="min-h-screen bg-gray-900 flex items-center justify-center">
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+      <div className="flex gap-4">
         {logos.map((logo) => (
-          <div key={logo.id} className="group relative w-40 h-40">
+          <div
+            key={logo.id}
+            className="group relative w-15 h-15"
+            style={{ width: "60px", height: "60px" }}
+          >
             {/* Zwart-wit SVG */}
             <img
               src={logo.bw}
